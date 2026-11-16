@@ -6,7 +6,7 @@ export const profile = {
   about:
     "Me apasionan la programación y la tecnología. Vengo del soporte técnico, así que entiendo al cliente que no es técnico: escucho primero, explico claro y entrego soluciones confiables. Me inspira Spider-Man: afrontar los retos y no rendirme.",
   location: "Ecuador",
-  photo: "/public/foto.jpeg", // coloca tu foto en /public/foto.jpg
+  photo: "/foto.jpeg", // coloca tu foto en /public/foto.jpeg
   cv: "/David_Alcivar_Portafolio.pdf",
   links: {
     Fiverr: "https://www.fiverr.com/jmdavid07",
